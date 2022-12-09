@@ -7,4 +7,4 @@
 - **terraform apply:** creates the described instances
 - **terraform graph**: show you the dependency graph
 - **terraform output**: list all outputs without applying any changes
-  - You can run terraform output <OUTPUT_NAME> to see the value of a specific output called <OUTPUT_NAME>. This is particularly handy for scripting.
+  - You can run terraform output <OUTPUT_NAME> to see the value of a specific output called <OUTPUT_NAME>. This is particulary handy for scripting.
